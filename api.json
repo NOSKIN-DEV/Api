@@ -1,0 +1,36 @@
+{
+  "usuarios": [
+    {
+      "rut": 0,
+      "username": "",
+      "email": "",
+      "password": "",
+      "isactive": "true",
+      "id": "0b05"
+    },
+    {
+      "id": "73c6",
+      "rut": 12345678,
+      "username": "noskin",
+      "email": "noskin@gmail.com",
+      "password": "noskin045",
+      "isactive": true
+    }
+  ],
+  "eventos": [
+    {
+      "id": 0,
+      "nombre": "Sql",
+      "descripcion": "a",
+      "fecha": "aa",
+      "lugar": "a"
+    },
+    {
+      "id": "1",
+      "nombre": "as",
+      "descripcion": "sds",
+      "fecha": "sddd",
+      "lugar": "are"
+    }
+  ]
+}
